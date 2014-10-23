@@ -17,9 +17,6 @@ It runs something like this.
 
 [pic](https://github.com/guyannanfei25/monitor/blob/master/pic/screen.png)
 <div align="center">
-<img src="<div align="center">
-<img src="https://github.com/yangyangwithgnu/use_vim_as_ide/blob/master/pics/%E5%9B%BE%E5%BD%A2%E7%8E%AF%E5%A2%83%E4%B8%8B%20IDE%20%E6%80%BB%E6%8F%BD.png" alt=""/><br />
-（图形环境下 IDE 总揽）
-</div>" alt=""/><br />
+<img src="https://github.com/guyannanfei25/monitor/blob/master/pic/screen.png" alt=""/><br />
 （预览）
 </div>

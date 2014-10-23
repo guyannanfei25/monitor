@@ -5,6 +5,7 @@ Edit By Chongge at IPLab705. Anyone who use it , copy or change it should keep t
 ********
 A small and light software to monitor each  interface‘s traffic on your computer. The OS must be Linux. 
 Maybe other OS can do this (for example Mac) by just changing one line of the code.
+
 **It doesn't need graphic interface**
 
 It can be used for displaying each interface's traffic in your computer. For example each interface's in packet, out packet, in rate and out rate. Its unit is kbits/sec.
